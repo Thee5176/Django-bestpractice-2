@@ -3,9 +3,13 @@
 
 Continue from part 1
   testing.py
-+ Testing for model
-+ TestCase for ListView
-  
++ write test for model's methods and fields
++ write test for ListView, DetailView
+
+  views.py
++ generic display view: ListView, DetailView
++ fetch from database and show in templates
+
   setting.py
 + Specific ALLOW_HOST
 + TEMPLATES > DIRS
